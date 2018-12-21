@@ -1,0 +1,16 @@
+{
+  "name": "won-jin",
+  "version": "0.0.1",
+  "description": "Music bot",
+  "main": "bot.js",
+  "author": "Aphyxia",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg": "0.0.4",
+    "node-spotify-api": "^1.0.7",
+    "opusscript": "0.0.6",
+    "simple-youtube-api": "^5.1.1",
+    "ytdl-core": "^0.28.0"
+  }
+}
